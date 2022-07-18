@@ -1,0 +1,26 @@
+{
+	"EngineVersion": "4.25",
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UMGControllerReady",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Pedro Costa",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"WhitelistPlatforms": [ "Win64", "Win32", "Mac", "IOS", "Android" ],
+	"Modules": [
+		{
+			"Name": "UMGControllerReady",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
